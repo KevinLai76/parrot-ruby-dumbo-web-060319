@@ -3,5 +3,5 @@
 
 def parrot(str = "Squawk!")
   phrase = "#{str}"
-  return phrase
+  puts phrase
 end
